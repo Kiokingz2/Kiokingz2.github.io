@@ -1,4 +1,4 @@
-# Installing the launcher
+# Installing the launcher 
 
 ## Android
 Instructions for installing PojavLauncher on Android devices.
